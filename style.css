@@ -1,0 +1,58 @@
+hr{
+    border-color: blue;
+    border-width: 1px;
+    border-style: solid
+}
+.header{
+    padding: 6px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+ul,li{
+    display: inline;
+    padding: 5px;
+    cursor: pointer;
+}
+li:hover{
+    color: aqua;
+}
+.foods{
+    margin-top: 20px;
+    margin-left: 20px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    width: 210px;
+    cursor: pointer;
+    display: inline-block
+}
+.box{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    width: 5px;
+    cursor: pointer;
+    margin-left: 20px;
+    background-color: black;
+    color: white;
+}
+.productes{
+    text-align: center;
+}
+.contact{
+    background-color: black;
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+}
+.one{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    width: 500px; 
+    background-color: yellow;
+    margin-left: 500px;
+    color: black;
+    padding: 5px;
+}
